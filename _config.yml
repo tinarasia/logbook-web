@@ -18,23 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Tinarasia Log
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # >- # this means to ignore newlines until "baseurl:"
   "S/V Tinarasia's automagic logbook"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username:  tinarasia_sailing
 
 # Build settings
-#theme: minima
-#plugins:
-#  - jekyll-feed
-
-remote_theme: pages-themes/time-machine@v0.2.0
+theme: time-machine
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+
+#plugins:
+#  - jekyll-feed
+#  - jekyll-remote-theme
+#remote_theme: pages-themes/time-machine@v0.2.0
   
 # Exclude from processing.
 # The following items will not be processed, by default.
