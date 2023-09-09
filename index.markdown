@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+# Hey there!
+
+As soon as we're done setting up all the hacky tech stuff aboard, this will
+be our boat's public logbook. Until then: radio silence :)
+
